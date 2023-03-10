@@ -7,3 +7,4 @@ function firstFunction(x,y){
 }
 
 firstFunction(1,1);
+firstFunction("hello","Hell");
